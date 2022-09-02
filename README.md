@@ -1,1 +1,4 @@
 # Assignment--2-Devineni
+# Jyoshtna Devineni
+###### Victoria museum is my favourite museum
+> Victoria Museum located on the Bandar Road is a must visit tourist spot in Vijayawada. Also known as **Victoria Jubilee Museum**, this museum of the Archaeological Department was built in 1887 to honour the Golden jubilee coronation of Queen Victoria. It is also the place where Congress Party held a meeting in 1921 to decide the party’s flag. __Mahatma Gandhi added a wheel to the tricolor flag which became the Indian National Congress’s official flag.__ With its varied collection of arts and artifacts, Victoria Museum is one the prime attractions of Vijaywada worth visiting by each and every one.
