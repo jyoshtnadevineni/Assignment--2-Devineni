@@ -8,6 +8,6 @@
 2. To go to the Airport,take the road infront of museum and go along the road until you find a temple and  turn right and go until you get a post office at the end of the street.
 3. From post office take left you will find a Rest and GO restaurant. 
 4. Infront of restaurant there is subway and go alaong the side road of   subway it is 20kms go in a straight road you will find the airport.
-# Other things to explore near the museum
-1. There is prakasam barrage,which is old enough of 170 years. It was built by Major cotton in the year 1852.The prakasam barrage stretches 1223.5m across the river krishna connecting the major cities.
-2. An amusement park with load full of rides for kids and adults.  
+## Other things to explore near the museum
+* There is prakasam barrage,which is old enough of 170 years. It was built by Major cotton in the year 1852.The prakasam barrage stretches 1223.5m across the river krishna connecting the major cities.
+* An amusement park with load full of rides for kids and adults.  
