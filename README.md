@@ -11,3 +11,14 @@
 ## Other things to explore near the museum
 * There is prakasam barrage,which is old enough of 170 years. It was built by Major cotton in the year 1852.The prakasam barrage stretches 1223.5m across the river krishna connecting the major cities.
 * An amusement park with load full of rides for kids and adults.  
+![Image](jyo%20pic.jpg)
+# some places to visit in India
+In India there are some cultural places and poetic place to visit some of them are:
+
+|city|Location|Visiting hours|
+|-----|---------|----------|
+|Vijayawada|Temple|6:00AM-8:00PM|
+|Banglore|Iskon temple|7:00am-6:00pm|
+|Delhi|Taj mahal|10:00AM-5:00PM|
+|Kolkata|Durga temple|5:00AM-5:00PM|
+|Hyderabad|Charminar|11:00AM-6:00pm|
