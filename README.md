@@ -27,3 +27,17 @@ In India there are some cultural places and poetic place to visit some of them a
 >Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.*Mark Twain*
 
 >When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.— *Eleanor Roosevelt*
+
+---
+# htaccess
+>How do I generate random integers within a specific range in Java?
+
+<https://stackoverflow.com/questions/5887709/getting-random-numbers-in-java>
+```
+# BEGIN GZIP
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</ifmodule>
+# END GZIP
+```
+<https://css-tricks.com/snippets/htaccess/active-gzip-compression/>
