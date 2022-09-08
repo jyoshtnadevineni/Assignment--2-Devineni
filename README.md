@@ -22,3 +22,7 @@ In India there are some cultural places and poetic place to visit some of them a
 |Delhi|Taj mahal|10:00AM-5:00PM|
 |Kolkata|Durga temple|5:00AM-5:00PM|
 |Hyderabad|Charminar|11:00AM-6:00pm|
+----------
+## Some life quotes
+>Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too. *Mark Twain*
+>When you give joy to other people, you get more joy in return. You should give a good thought to happiness that you can give out.— *Eleanor Roosevelt*
